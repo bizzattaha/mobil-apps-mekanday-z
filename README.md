@@ -1,6 +1,7 @@
  ![image](https://github.com/bizzattaha/mobil-apps-mekanday-z/assets/115414206/b1f1ffb5-a389-4445-a571-7e83393dae94)
 
 İstinye Üniversitesi Bilgisayar Programcılığı
+
 Bilal Karabulut 221216055
 
 Mekandayız
